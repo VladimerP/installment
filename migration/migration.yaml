@@ -1,0 +1,4 @@
+name: Installment module migrations (VladimerP_installment)
+migrations_namespace: OxidEsales\vladimerp\installment
+table_name: oxmigrations_vladimerp_installment
+migrations_directory: data

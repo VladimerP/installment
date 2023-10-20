@@ -1,0 +1,22 @@
+{
+    "name": "vladimerp/installment",
+    "description": "set up installments for the products",
+    "version": "1.0",
+    "type": "oxideshop-module",
+    "homepage": "",
+    "author": {
+        "name": "OXID Academy",
+        "email": "visartvina@gmail.com",
+        "homepage": ""
+    },
+    "extra": {
+        "oxideshop": {
+            "target-directory": "vladimerp/installment"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "vladimerp\\installment\\": "../../../source/modules/vladimerp/installment/"
+        }
+    }
+} 
